@@ -1,10 +1,6 @@
-number = input("Enter a number: ")
+number = int(input("Enter number: "))
 
-try:
-    number = int(number)
-    if number % 2 == 0:
-        print("even number")
-    else:
-        print("odd number")
-except ValueError:
-    print("Please enter a valid whole number.")
+if number % 2 == 0:
+    print("Even number")
+else:
+    print("Odd number")
