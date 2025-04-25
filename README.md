@@ -1,7 +1,5 @@
 # Activities
 
-## Beginner Level
-
 ### ✅ ~~Number Guessing Game~~
 
 **Core Concepts:**
