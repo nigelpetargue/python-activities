@@ -7,13 +7,12 @@ def number_guesssing():
     random_number = random.randint(1, 100)
     attempts = 0
 
-    print(f"Correct answer: {random_number}")
-
     while True:
         attempts += 1
 
         try: 
             guess = int(input("Take a guesss: "))
+            
             if guess > random_number: 
                 print("Too high!")
             elif guess < random_number:
