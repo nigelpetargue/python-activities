@@ -12,7 +12,7 @@
 
 ---
 
-### 📝 Mad Libs Generator
+### ✅ ~~Mad Libs Generator~~
 
 **Core Concepts:**
 
