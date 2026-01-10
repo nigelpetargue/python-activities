@@ -6,7 +6,7 @@
 
 - 🖥️ Input and output
 - 📦 Variables
-- 🎲 Random number generation
+- 🎲 Random number generation 
 - 🔀 Conditional statements (`if`, `elif`, `else`)
 - 🔁 Basic loops (`while`)
 
